@@ -1,6 +1,4 @@
-M1 = 1;
-M2 = 0.5;
-k  = 1;
-F  = 1;
-mu = 0.02;
-g  = 9.8;
+plot(out.dispx.signals.values,out.dispy.signals.values,'r');
+hold on
+plot(out.dispx1.signals.values,out.dispy1.signals.values,'b');
+hold off
