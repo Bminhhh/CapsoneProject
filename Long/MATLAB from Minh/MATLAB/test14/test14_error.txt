@@ -1,0 +1,4 @@
+Constrained Instances: 'Rack-1', 'pinion-1'
+Constraint Name: RackPinionMate1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
