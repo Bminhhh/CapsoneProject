@@ -20,7 +20,7 @@ Steering_Angle = reshape([angle{:}],size(angle));
 %% Create output Vehicle speed  variable
 Vehicle_Speed = reshape([speed{:}],size(speed));
 %% Import the Moment limit data
-[~, ~, momen] = xlsread('Lookup_table.xlsx','Trang_tính1','H3:K115');
+[~, ~, momen] = xlsread('Lookup_table.xlsx','Trang_tính1','H3:K15');
 
 %% Create output Moment limit variable
 Moment_limit = reshape([momen{:}],size(momen));
