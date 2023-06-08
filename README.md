@@ -1,7 +1,8 @@
 # CapsoneProject
-## From Long
-~~Sửa trên file 2019b : done -> test14_r2019b_update.slx~~
-- Update file nhiem vu trong folder từng người -> in gửi a Việt
-- test thành công 1st + 2nd scenario (1km/h, chuyển làn) check at __FinalTest_16_05_Longr2022b.slx + FinalTest_16_05_Longr2022b_test_case_2.slx__  ngoài cùng
+## Repo đã đến lúc đóng cửa
 
-![Long](https://camo.githubusercontent.com/1b5bf78e7899f97a5ca6e189d361ea43a5389bd69d243266fe78c7373da84deb/687474703a2f2f696d67742e7461696d69656e7068692e766e2f63662f496d616765732f74742f323031382f382f312f6c6973742d69636f6e2d66616365626f6f6b2d6275612d6368652e6a7067)
+![](httpsss://thumbs.dreamstime.com/b/bright-future-ahead-sign-bright-future-ahead-sign-blue-sky-background-d-rendered-113616074.jpg)
+<img src="https://thumbs.dreamstime.com/b/bright-future-ahead-sign-bright-future-ahead-sign-blue-sky-background-d-rendered-113616074.jpg" alt="..." width="350" />  <img src="https://i0.wp.com/www.quotespedia.org/ywhypsaw/2019/11/11112019006.jpg?fit=1920%2C1200&ssl=1&resize=692%2C376" alt="..." width="350" />
+![](httpssss://i0.wp.com/www.quotespedia.org/ywhypsaw/2019/11/11112019006.jpg?fit=1920%2C1200&ssl=1&resize=692%2C376)
+
+Thank you everyone.
